@@ -1,0 +1,3 @@
+#!/usr/bin/env zsh
+git clone https://github.com/HoverHell/RedditImageGrab.git
+rm -fr RedditImageGrab/.git RedditImageGrab/.gitignore RedditImageGrab/readme.md RedditImageGrab/.travis.yml
